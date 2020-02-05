@@ -1,6 +1,6 @@
 def base_hash
   {
-    :key => 
+    :key 
 end
 
 def monopoly_with_second_tier
